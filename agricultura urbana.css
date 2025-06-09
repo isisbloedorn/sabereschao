@@ -4,13 +4,13 @@
 
 :root {
     --cor-de-fundo: #fceef1;
-    --verde: #5a0017;
-    --branco-2: #3f0713;
+    --verde: #b94225;
+    --branco-2: #884c25;
     --branco: #ffffff;
-    --botao-ativo: #da7586;
+    --botao-ativo: #754326;
     --botao-inativo: #f0a9b5;
     --fonte-principal: "Poppins";
-    --texto-fundo: #eecccf;
+    --texto-fundo: #e6a27b;
     --texto: #000000;
     /* Melhor contraste para leitura */
     --azul-degrade: linear-gradient(97.54deg, #99223c 35.49%, #fd9bbc 165.37%);

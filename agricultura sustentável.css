@@ -4,12 +4,12 @@
 
 :root {
     --cor-de-fundo: #eefcfa;
-    --verde: #005a3c;
-    --branco-2: #1f3124;
+    --verde: #0ec789ce;
+    --branco-2: #43664d;
     --branco: #FFFFFF;
-    --botao-ativo: #57a08a;
-    --botao-inativo: #a3dfdb;
-    --texto-fundo: #cceede;
+    --botao-ativo: #165240;
+    --botao-inativo: #7fe4dd;
+    --texto-fundo: #1ccc7a;
     --texto: #333;
     /* Melhor contraste para leitura */
     --azul-degrade: linear-gradient(97.54deg, #268b69 35.49%, #b5fddb 165.37%);

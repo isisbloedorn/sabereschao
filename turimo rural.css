@@ -5,12 +5,12 @@
 
 :root {
     --cor-de-fundo: #fceef3;
-    --verde: #4b005a;
-    --branco-2: #2d1f31;
+    --verde: #102580;
+    --branco-2: #573597;
     --branco: #ffffff;
-    --botao-ativo: #8f57a0;
+    --botao-ativo: #343686;
     --fonte-principal: "Poppins";
-    --botao-inativo: #d3a3df;
+    --botao-inativo: #7087c9;
     --texto-fundo: #eaccee;
     --texto: #333;
     /* Melhor contraste para leitura */
